@@ -13,7 +13,16 @@ If you find this useful, please give it a star to show your support for this pro
 ## Input
 ![Input File](https://github.com/MertKalkanci/Plant-Leaf-Selection-On-Image/blob/main/content/input_rasberry.png)
 
-## Output
+## Outputs
+
+### Output Single
+
 ![Output File](https://github.com/MertKalkanci/Plant-Leaf-Selection-On-Image/blob/main/content/github_page/output_single.png)
-![Output File](https://github.com/MertKalkanci/Plant-Leaf-Selection-On-Image/blob/main/content/github_page/output_mask.png)
+
+### Output Multiple Leaves (Represantation)
+
 ![Output File](https://github.com/MertKalkanci/Plant-Leaf-Selection-On-Image/blob/main/content/github_page/output_leaves.png)
+
+### Output Watershred Segmantation Mask
+
+![Output File](https://github.com/MertKalkanci/Plant-Leaf-Selection-On-Image/blob/main/content/github_page/output_mask.png)
