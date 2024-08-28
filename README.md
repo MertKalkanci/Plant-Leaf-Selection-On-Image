@@ -1,6 +1,9 @@
 # Plant-Leaf-Selection-On-Image
 Plant Leaf Selection On Image By Using PlantCV
 
+# IMPORTANT NOTICE
+With recent updates on PlantCV library, this codebase is obsolete! You can use this library to give you some idea but be careful while using it in production!
+
 ## Give it a Star ! ⭐
 
 Feel free to request an issue on github if you find bugs or request a new feature. 
